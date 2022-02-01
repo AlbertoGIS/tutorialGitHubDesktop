@@ -1,0 +1,23 @@
+#navegador{
+    
+    background-color: black;size: 2cm;
+    font-style: white;
+    color: cornsilk;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', 
+    sans-serif;
+    flex-direction: row;
+    font-size: 10mm;
+    padding: 0.5cm;
+    cursor: pointer;
+ }
+ li:hover{
+    color: chartreuse;
+    font-size: 12mm;
+    
+ }
+ ul{
+    list-style: none;
+     display: flex;
+     justify-content: space-around
+
+ }

@@ -1,0 +1,18 @@
+p{
+    font-style: black;
+}
+table,tr,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+}
+#span1{
+    font-weight: bold;
+    color: red;
+}
+body{
+    width: 700px;
+}
+table{
+    text-align: center;
+}

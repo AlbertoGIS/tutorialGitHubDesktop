@@ -1,0 +1,18 @@
+#externo{
+        font-size: 14px;
+        font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+        color: chocolate;
+        background-color: lightblue;
+        line-height: 1.5;
+    
+}
+
+
+@media all and (min-wdth: 600px){
+        h2 {
+                background-color: green;
+        }
+        ul{
+                background-color: orange;
+        }
+}

@@ -1,0 +1,44 @@
+body{
+    font-family: fantasy;
+    color: grey;
+}
+#main-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#image-container{
+    display: flex;
+    flex-direction: row;
+}
+#info-container{
+    margin-left: 20px;
+}
+.generic-button{
+    padding: 7px;
+    border-radius: 10px;
+}
+.reservation{
+    background-color: white;
+    border: 2px solid grey
+}
+.presupuesto{
+    background-color: grey;
+    color: white;
+}
+#right-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-right: 20px
+}
+#nota{
+    padding:7px;
+    border-radius: 10px;
+    background-color: rgb(122, 113, 113);
+    color: black;
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+
