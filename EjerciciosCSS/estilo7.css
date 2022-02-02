@@ -1,0 +1,12 @@
+
+.circulo {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(101, 67, 121);
+    border-radius: 50%;
+    display: inline-block;
+    
+  }
+span:hover{
+    opacity: 0;
+}
